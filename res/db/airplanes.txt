@@ -1,0 +1,7 @@
+11,Airbus,A380,Quad Engine Jet,320000.0,18400.0,460.0,7000.0,Jaa,
+12,Airbus,A320,Twin Engine Jet,27200.0,3648.14,450.0,5900.0,Jaa,
+21,Boeing,777,Twin Engine Jet,126000.0,8000.0,550.0,7000.0,Jaa,
+22,Boeing,747,Quad Engine Jet,79304.0,6000.0,550.0,6500.0,Jaa,
+31,Cessna,Caravan,Turboprop,650.0,100.0,160.0,2160.0,Jaa,
+41,Pilatus,PC-12,Turboprop,2704.0,332.0,240.0,2600.0,Jaa,
+51,Beechcraft,Bonanza,Piston Single Engine,200.0,40.0,130.0,1500.0,Avgas,
