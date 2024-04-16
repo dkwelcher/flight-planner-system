@@ -4,7 +4,7 @@ The project was built by David Welcher, Joshua Rogers, and Andrew Nguyen for the
 
 The project is a desktop application that allows users to manage airport, airplane, & nav beacon data and to plan flights between any two airports. The flight planner leverages the A* algorithm to determine the shortest path from starting airport to destination airport, while also considering the limitations of the selected airplane.
 
-Run the main method in flight-planner-system/src/admin/Login.java to start the program.
+Run the main method in flight-planner-system/src/admin/Login.java to start the program. Use Username: username & Password: password to test the app. There are many airports and multiple airplanes already provided in the repo.
 
 ## Features
 
