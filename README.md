@@ -11,13 +11,13 @@ Run the main method in flight-planner-system/src/admin/Login.java to start the p
 - Graphical User Interface (GUI) using Java Swing
 - Log In
 - Internally controlled Registration
-  -- Automatically generates username based on first & last name. Recursively appends identifier if username already exists.
-  -- Access Level determines user access at the main menu
+  - Automatically generates username based on first & last name. Recursively appends identifier if username already exists.
+  - Access Level determines user access at the main menu
 - Airport, Nav Beacon, & Airplane Managers
-  -- Users can perform CRUD-related operations
+  - Users can perform CRUD-related operations
 - Flight Planner
-  -- Uses A* algorithm that also considers limitations of the airplane
-  -- Displays a detailed flight plan with all flight legs showing distance and hours travelled and cardinal direction.
+  - Uses A* algorithm that also considers limitations of the airplane
+  - Displays a detailed flight plan with all flight legs showing distance and hours travelled and cardinal direction.
 
 ## Updates Summary (04/16/2024)
 
